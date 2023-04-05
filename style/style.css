@@ -39,7 +39,6 @@
         text-decoration: none;
     }
 
-
     .Studio{
         position: absolute;
         width: 66px;
@@ -136,14 +135,6 @@
         text-decoration: none;
     }
 
-    .list{
-        list-style: none;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2e2f42
-    }
     
 /* Filter Btn Active */
     .filter-btn-active{
@@ -161,7 +152,8 @@
         border-radius: 4px;
     }
 /* Filter Btn  */
-    :root{--brand-color-btn: #F4F4FD;
+    :root{
+        --brand-color-btn: #F4F4FD;
 
     }
 
@@ -294,3 +286,18 @@
         color: var(--brand-color);
     }
 
+    .list{
+        position: absolute;
+            width: px;
+            height: px;
+            left: px;
+            top: px;
+
+    }
+    .lms-1{
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 156px;
+        top: 288px;
+    }
