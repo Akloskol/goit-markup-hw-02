@@ -20,7 +20,7 @@
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: var(--brand-color); 
-        text-decoration: none;
+        
 
     }
     .STUDIO{
@@ -286,18 +286,77 @@
         color: var(--brand-color);
     }
 
-    .list{
-        position: absolute;
-            width: px;
-            height: px;
-            left: px;
-            top: px;
-
+    .list{   
     }
+    /* Images and text */
     .lms-1{
         position: absolute;
         width: 360px;
         height: 300px;
         left: 156px;
         top: 288px;
+    }
+
+    .lms-2{
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 540px;
+        top: 288px;
+    }
+
+    .lms-3{
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 924px;
+        top: 288px;
+    }
+
+    .lms-4{
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 156px;
+        top: 756px;
+    }
+
+    .lms-5{
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 540px;
+        top: 756px;
+    }
+
+    .lms-6 {
+        position: absolute;
+            width: 360px;
+            height: 300px;
+            left: 924px;
+            top: 756px;
+    }
+
+    .lms-7 {
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 156px;
+        top: 1224px;
+    }
+
+    .lms-8 {
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 540px;
+        top: 1224px;
+    }
+
+    .lms-9 {
+        position: absolute;
+        width: 360px;
+        height: 300px;
+        left: 924px;
+        top: 1224px;
     }
