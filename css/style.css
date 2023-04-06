@@ -70,10 +70,11 @@ body {
         letter-spacing: 0.02em;
         color: var(--main-vg-color);
         text-decoration: none;
+        font-style: normal;
     }
 
 /* Address */
-    .adress{
+    .address{
         font-style: normal;
     }
     .list{
