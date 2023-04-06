@@ -95,12 +95,12 @@ body {
     }
 
 /* Button 1-4 */
-    .filter-btn-0:hover,
-    .filter-btn-0:focus {
+    .filter-btn-active:hover,
+    .filter-btn-active:focus {
     color: var(--main-bg-color);
     background-color: var(--main-dg-color);
 }
-    .filter-btn-0{
+    .filter-btn-active{
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
