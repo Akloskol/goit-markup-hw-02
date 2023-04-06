@@ -1,12 +1,14 @@
 :root{
     --brand-color: #434455;
 }
+
+* {
+    margin: 0;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     color: var(--brand-color);
-}
-*{
-    margin: 0;
 }
 
 .list {
