@@ -167,7 +167,7 @@ body {
         color: var(--main-mg-color);
 
     }
-    
+
 /* Img-2 */
 /* Img-3 */
 /* Img-4 */
@@ -176,6 +176,19 @@ body {
 /* Img-7 */
 /* Img-8 */
 /* Img-9 */
+
+
+/* Section-3 */
+.section-3{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--main-vg-color);
+}
+
+
 
 /* Footer */
         .footer {
