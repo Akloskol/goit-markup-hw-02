@@ -98,12 +98,12 @@ body {
         color: var(--main-pg-color);
         background-color: var(--main-gg-color);
         cursor: pointer;
-       
     }
-
     .filter-btn-active:hover,
     .filter-btn-active:focus{
         color: var(--main-bg-color);
         background-color: var(--main-dg-color);
         }
+
+
 
