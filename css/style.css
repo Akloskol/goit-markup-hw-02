@@ -169,25 +169,22 @@ body {
     }
 
 /* Footer */
-    .footer {
-        background-color: var(--main-vg-color);
-    }
-    
-    .web-studio-logo {
-        font-family: "Raleway", sans-serif;
-        font-weight: 800;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: var(--main-pg-color);
-        text-decoration: none;
-        background-color: var(--main-vg-color);
+        .footer {
+            background-color: var(--main-vg-color);
         }
     
-    .web-studio-logo .studio {
-        color: #f4f4fd;
-    }
-
-
+        .logo-link {
+            font-family: "Raleway", sans-serif;
+            font-weight: 800;
+            font-size: 18px;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            color: #4d5ae5;
+            text-decoration: none;
+        }
+    
+        .logo-text {
+            color: var(--main-ag-color);
+        }
 
