@@ -5,6 +5,7 @@
     --main-mg-color: #434455;
     --main-dg-color: #404bbf;
     --main-gg-color: #4d5ae5;
+    --main-ag-color: #F4F4FD;
 }
 
 body {
@@ -92,8 +93,8 @@ body {
         color: var(--main-mg-color);
     }
 /* Button1 */
-.filter-btn-active:hover,
-.filter-btn-active:focus {
+    .filter-btn-active:hover,
+    .filter-btn-active:focus {
     color: var(--main-bg-color);
     background-color: var(--main-dg-color);
 }
@@ -103,7 +104,7 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        background-color: var(--main-gg-color);
+        background-color: var(--main-ag-color);
         color: var(--main-pg-color);
         
         cursor: pointer;
