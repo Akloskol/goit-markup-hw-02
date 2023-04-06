@@ -4,7 +4,6 @@
     --main-vg-color: #2e2f42;
     --main-mg-color: #434455;
     --main-dg-color: #404bbf;
-    --main-gg-color: #4d5ae5;
     --main-ag-color: #F4F4FD;
 }
 
@@ -181,7 +180,7 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: var(--main-gg-color);
+        color: var(--main-pg-color);
         text-decoration: none;
     }
     
