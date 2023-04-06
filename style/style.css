@@ -1,15 +1,15 @@
-:root{
-    --brand-color: #434455;
+:root {
+    --main-bg-color: #FFFFFF;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: var(--main-bg-color);
 }
 
 * {
     margin: 0;
-}
-
-body {
-    font-family: "Roboto";
-    font-family: sans-serif;
-    color: var(--brand-color);
 }
 
 .list {
