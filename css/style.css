@@ -15,6 +15,9 @@ body {
 * {
     margin: 0;
 }
+.list {
+    list-style: none;
+}
 /* Header */
     .logo-header-link{
         font-family: "Raleway", sans-serif;
@@ -33,9 +36,7 @@ body {
     }
 
 /* Page-link */
-    .list-menu{
-        list-style: none;
-    }
+    
 
     .list-menu-1{
         font-weight: 500;
