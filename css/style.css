@@ -178,13 +178,25 @@ body {
 /* Img-9 */
 
 
-/* Section-3 */
+/* Section (3-4) heading */
     .section-heading {
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: var(--main-vg-color);
+    }
+
+    .mgpd{
+        background-color: #FFFFFF;
+    }
+
+    .mak-guerrero{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
         color: var(--main-vg-color);
     }
 
