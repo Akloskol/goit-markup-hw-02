@@ -15,73 +15,74 @@ body {
 * {
     margin: 0;
 }
+/* Header */
+    .logo-header-link{
+        font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--main-pg-color);
+        text-decoration: none; 
+    }
 
-.logo-header-link{
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: var(--main-pg-color);
-    text-decoration: none; 
-}
+    .logo-header-blue{
+        text-decoration: none;
+        color: var(--main-vg-color);
+    }
 
-.logo-header-blue{
-    text-decoration: none;
-    color: var(--main-vg-color);
-}
+/* Page-link */
+    .list{
+        list-style: none;
+    }
 
-.list{
-    list-style: none;
-}
+    .list-menu-1{
+        font-weight: 500;
+        font-size: 16px;    
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--main-vg-color);
+        text-decoration: none;
+        
+    }
+    .link:hover,
+    .link:focus {
+        color: var(--main-dg-color);
+    }
 
-.list-menu-1{
-    font-weight: 500;
-    font-size: 16px;    
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--main-vg-color);
-    text-decoration: none;
-    
-}
-.link:hover,
-.link:focus {
-    color: var(--main-dg-color);
-}
+    .list-menu-2{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--main-vg-color);
+        text-decoration: none;
+    }
 
-.list-menu-2{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--main-vg-color);
-    text-decoration: none;
-}
+    .list-menu-3{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--main-vg-color);
+        text-decoration: none;
+    }
+/* Address */
+    .Contact{
+        font-style: normal;
+        list-style: none;
+    }
 
-.list-menu-3{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--main-vg-color);
-    text-decoration: none;
-}
+    .contact-email{
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--main-mg-color);
+        text-decoration: none;
+    }
 
-.Contact{
-    font-style: normal;
-    list-style: none;
-}
+    .contact-number{
+        text-decoration: none;
+        color: var(--main-mg-color);
 
-.contact-email{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--main-mg-color);
-    text-decoration: none;
-}
-
-.contact-number{
-    text-decoration: none;
-    color: var(--main-mg-color);
-
-}
+    }
