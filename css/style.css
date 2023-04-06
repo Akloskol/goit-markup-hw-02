@@ -72,8 +72,10 @@ body {
     }
 
 /* Address */
-    .adress{font-style: normal}
-    .Contact{
+    .adress{
+        font-style: normal
+    }
+    .list{
         font-style: normal;
         list-style: none;
     }
