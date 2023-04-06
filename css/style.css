@@ -3,6 +3,7 @@
     --main-pg-color: #4d5ae5;
     --main-vg-color: #2e2f42;
     --main-mg-color: #434455;
+    --main-dg-color: #404bbf;
 }
 
 body {
@@ -37,11 +38,16 @@ body {
 
 .list-menu-1{
     font-weight: 500;
-    font-size: 16px;
+    font-size: 16px;    
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--main-vg-color);
     text-decoration: none;
+    
+}
+.link:hover,
+.link:focus {
+    color: var(--main-dg-color);
 }
 
 .list-menu-2{
@@ -62,13 +68,20 @@ body {
     text-decoration: none;
 }
 
-.Contacts{
+.Contact{
     font-style: normal;
+    list-style: none;
 }
 
-.contacts-email{
+.contact-email{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--main-mg-color);
     text-decoration: none;
+}
+
+.contact-number{
+    text-decoration: none;
+    color: var(--main-mg-color);
+
 }
