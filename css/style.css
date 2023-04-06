@@ -2,6 +2,7 @@
     --main-bg-color: #FFFFFF;
     --main-pg-color: #4d5ae5;
     --main-vg-color: #2e2f42;
+    --main-mg-color: #434455;
 }
 
 body {
@@ -14,10 +15,6 @@ body {
     margin: 0;
 }
 
-.list {
-    list-style: none;
-}
-
 .logo-header-link{
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -26,6 +23,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--main-pg-color);
+    text-decoration: none; 
 }
 
 .logo-header-blue{
@@ -33,3 +31,44 @@ body {
     color: var(--main-vg-color);
 }
 
+.list{
+    list-style: none;
+}
+
+.list-menu-1{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--main-vg-color);
+    text-decoration: none;
+}
+
+.list-menu-2{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--main-vg-color);
+    text-decoration: none;
+}
+
+.list-menu-3{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--main-vg-color);
+    text-decoration: none;
+}
+
+.Contacts{
+    font-style: normal;
+}
+
+.contacts-email{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--main-mg-color);
+    text-decoration: none;
+}
