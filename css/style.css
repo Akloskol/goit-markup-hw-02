@@ -40,7 +40,7 @@ body {
 /* Page-link */
     
 
-    .list-menu-1{
+    .list-menu-one{
         font-weight: 500;
         font-size: 16px;    
         line-height: 1.5;
@@ -54,7 +54,7 @@ body {
         color: var(--main-dg-color);
     }
 
-    .list-menu-2{
+    .list-menu-two{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -63,7 +63,7 @@ body {
         text-decoration: none;
     }
 
-    .list-menu-3{
+    .list-menu-three{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
