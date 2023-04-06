@@ -4,6 +4,7 @@
     --main-vg-color: #2e2f42;
     --main-mg-color: #434455;
     --main-dg-color: #404bbf;
+    --main-gg-color: #4d5ae5;
 }
 
 body {
@@ -87,4 +88,22 @@ body {
         text-decoration: none;
         color: var(--main-mg-color);
     }
+
+    .filter-btn-active{
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: var(--main-pg-color);
+        background-color: var(--main-gg-color);
+       
+    }
+
+    .filter-btn-active:hover,
+    .filter-btn-active:focus{
+        color: var(--main-bg-color);
+        background-color: var(--main-dg-color);
+        cursor: pointer;
+        }
 
