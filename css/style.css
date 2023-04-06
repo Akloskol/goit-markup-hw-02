@@ -169,15 +169,6 @@ body {
 
     }
 
-/* Img-2 */
-/* Img-3 */
-/* Img-4 */
-/* Img-5 */
-/* Img-6 */
-/* Img-7 */
-/* Img-8 */
-/* Img-9 */
-
 /* Section-1 */
     .section-mc{
         background-color: var(--main-vg-color);
@@ -191,6 +182,9 @@ body {
     }
 
 /* Section-2 */
+    .list-section-2{
+        list-style: none;
+    }
 
 
 
