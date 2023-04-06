@@ -88,15 +88,18 @@ body {
     }
 
     .contact-number{
-        text-decoration: none;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         color: var(--main-mg-color);
+        text-decoration: none;
     }
+
 /* Button1 */
-.filter-btn-active:hover,
-.filter-btn-active:focus {
+    .filter-btn-active:hover,
+    .filter-btn-active:focus {
     color: var(--main-bg-color);
     background-color: var(--main-dg-color);
-}
+    }
     .filter-btn-active{
         font-family: "Roboto", sans-serif;
         font-weight: 500;
