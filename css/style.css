@@ -37,7 +37,11 @@ body {
     }
 
 /* Page-link */
-    
+
+    .link:hover,
+    .link:focus {
+        color: var(--main-dg-color);
+    }
 
     .list-menu-1{
         font-weight: 500;
@@ -48,11 +52,7 @@ body {
         text-decoration: none;
         
     }
-    .link:hover,
-    .link:focus {
-        color: var(--main-dg-color);
-    }
-
+    
     .list-menu-2{
         font-weight: 500;
         font-size: 16px;
@@ -182,9 +182,7 @@ body {
     }
 
 /* Section-2 */
-    .list-section-2{
-        list-style: none;
-    }
+
 
 
 
