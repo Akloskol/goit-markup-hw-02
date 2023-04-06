@@ -170,4 +170,24 @@ body {
     }
 
 
+    .footer {
+        background-color: var(--main-vg-color);
+    }
+    
+    .web-studio-logo {
+        font-family: "Raleway", sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: var(--main-gg-color);
+        text-decoration: none;
+    }
+    
+    .web-studio-logo .studio {
+        color: #f4f4fd;
+    }
+
+
 
