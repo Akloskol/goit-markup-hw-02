@@ -168,7 +168,7 @@ body {
 
     }
 
-
+/* Footer */
     .footer {
         background-color: var(--main-vg-color);
     }
@@ -182,7 +182,8 @@ body {
         text-transform: uppercase;
         color: var(--main-pg-color);
         text-decoration: none;
-    }
+        background-color: var(--main-vg-color);
+        }
     
     .web-studio-logo .studio {
         color: #f4f4fd;
