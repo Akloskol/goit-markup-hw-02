@@ -56,7 +56,7 @@ body {
         font-style: normal;
     }
     
-    .contact-link {
+    .link-contact {
         color: var(--main-vg-color);
         text-decoration: none;
         line-height: 1.5;
@@ -64,8 +64,8 @@ body {
         color: var(--main-mg-color);
     }
     
-    .contact-link:hover,
-    .contact-link:focus{
+    .link-contact:hover,
+    .link-contact:focus{
         color: var(--main-dg-color);
     }
     
