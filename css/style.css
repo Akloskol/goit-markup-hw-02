@@ -56,13 +56,12 @@ body {
         font-style: normal;
     }
     
-    .list {
-        list-style: none;
-    }
-    
     .contact-link {
         color: var(--main-vg-color);
         text-decoration: none;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--main-mg-color);
     }
     
     .contact-link:hover,
