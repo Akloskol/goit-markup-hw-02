@@ -179,7 +179,9 @@ body {
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
-        color: var(--main-pg-color);
+        color: #FFFFFF;
+        background-color: var(--main-pg-color); 
+        /* Изменил color на background  */
     }
 
 /* Section-2 */
