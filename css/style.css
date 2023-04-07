@@ -29,6 +29,7 @@ body {
         text-transform: uppercase;
         color: var(--main-pg-color);
         text-decoration: none; 
+
     }
 
     .logo-header-blue{
@@ -178,7 +179,7 @@ body {
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
-        color: #ffffff;
+        color: var(--main-pg-color);
     }
 
 /* Section-2 */
