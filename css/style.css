@@ -38,7 +38,7 @@ body {
     }
 
 /* Page-link */
-    .menu-link{
+    .link-menu{
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -47,8 +47,8 @@ body {
         text-decoration: none;
     }
 
-    .menulink:hover,
-    .menu-link:focus{
+    .link-menu:hover,
+    .link-menu:focus{
         color: var(--main-dg-color);
     }
 
@@ -70,27 +70,6 @@ body {
         color: var(--main-dg-color);
     }
     
-
-/* Address */
-    .address{
-        font-style: normal;
-    }
-    .list{
-        font-style: normal;
-        list-style: none;
-    }
-
-    .contact-email{
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: var(--main-mg-color);
-        text-decoration: none;
-    }
-
-    .contact-number{
-        text-decoration: none;
-        color: var(--main-mg-color);
-    }
 
 /* Button-main-page-and-portfolio */
     .filter-btn-active:hover,
