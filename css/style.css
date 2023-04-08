@@ -71,8 +71,8 @@ body {
     
 
 /* Button-main-page-and-portfolio */
-    .filter-btn-active:hover,
-    .filter-btn-active:focus {
+    .filter-btn:hover,
+    .filter-btn:focus {
     background-color: var(--main-dg-color);
     color: var(--main-bg-color);
     }
