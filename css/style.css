@@ -112,7 +112,7 @@ body {
     }
     
 /* Styles for the h2 concept heading */
-    .concept {
+    .concept link {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
