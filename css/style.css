@@ -91,8 +91,8 @@ body {
     /* Button-Portfolio */
     .filter-btn-active:hover,
     .filter-btn-avtive:focus {
-        background-color: var(--main-dg-color);
-        color: var(--main-bg-color);
+        color: #FFFFFF;
+        background-color: #404BBF;
         cursor: pointer;
     }
 
