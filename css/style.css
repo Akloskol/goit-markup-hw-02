@@ -104,6 +104,7 @@ body {
         letter-spacing: 0.04em;
         background-color: var(--main-ag-color);
         color: var(--main-pg-color);
+        cursor: pointer;
     }
 
 
