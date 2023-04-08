@@ -73,8 +73,7 @@ body {
 /* Button-main-page-and-portfolio */
     .filter-btn:hover,
     .filter-btn:focus {
-    background-color: var(--main-dg-color);
-    color: var(--main-bg-color);
+    
     cursor: pointer;
     }
 
