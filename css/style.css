@@ -73,9 +73,9 @@ body {
 /* Button-main-page */
     .filter-btn:hover,
     .filter-btn:focus {
-    background-color: var(--main-dg-color);
-    color: var(--main-bg-color);
-    cursor: pointer;
+        background-color: var(--main-dg-color);
+        color: var(--main-bg-color);
+        cursor: pointer;
     }
 
     .filter-btn{
