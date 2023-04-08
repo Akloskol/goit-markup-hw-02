@@ -88,6 +88,8 @@ body {
         color: var(--main-pg-color);
         background-color: #4D5AE5;
         color: #ffffff;
+        color: var(--main-pg-color);
+        background-color: var(--main-ag-color);
     }
 
 
