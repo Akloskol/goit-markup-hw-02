@@ -105,6 +105,16 @@ body {
 
     }
 
+/* Img-1-Portfolio */
+
+    .lms-photo link {
+        text-decoration: none;
+    }
+    
+
+
+
+
 /* Section-1 */
     .section-mc{
         background-color: var(--main-vg-color);
@@ -118,7 +128,6 @@ body {
         background-color: var(--main-pg-color); 
         /* Добавил background  */
     }
-
 
 /* Section (3-4) heading */
     .section-heading {
