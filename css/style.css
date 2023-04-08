@@ -95,17 +95,6 @@ body {
 
 /* Img-1-Portfolio */
 
-    .photo link {
-        text-decoration: none;
-    }
-
-    .concept{
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: var(--main-vg-color);
-    }
 
     a.link {
         text-decoration: none;
