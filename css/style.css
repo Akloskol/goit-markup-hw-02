@@ -103,10 +103,10 @@ body {
 
    
     
-        .filter-btn-active:is(:hover, :focus) {
-            color: #FFFFFF;
-            background-color: var(--second-background-color, #404BBF);
-        }
+    .filter-btn-active:is(:hover, :focus) {
+        color: #FFFFFF;
+        background-color: var(--second-background-color, #404BBF);
+    }
 
 /* Img-(1-9)-Portfolio */
 
