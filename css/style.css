@@ -101,8 +101,6 @@ body {
         cursor: pointer;
     }
 
-   
-    
     .filter-btn-active:is(:hover, :focus) {
         color: #FFFFFF;
         background-color: var(--second-background-color, #404BBF);
