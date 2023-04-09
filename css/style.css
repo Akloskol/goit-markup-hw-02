@@ -104,6 +104,11 @@ body {
     .filter-btn-active:hover,
     .filter-btn-avtive:focus {
        color: #FFFFFF;
+        cursor: pointer;
+    }
+
+    .filter-btn-active:hover,
+    .filter-btn-avtive:focus {
         background-color: #404BBF;
         cursor: pointer;
     }
