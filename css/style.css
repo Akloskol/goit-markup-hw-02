@@ -3,7 +3,7 @@
     --main-pg-color: #4d5ae5;
     --main-vg-color: #2e2f42;
     --main-mg-color: #434455;
-    --main-dg-color: #404bbf;
+    --second-background-color: #404bbf;
     --main-ag-color: #F4F4FD;
 }
 
@@ -49,7 +49,7 @@ body {
 
     .link-menu:hover,
     .link-menu:focus{
-        color: var(--main-dg-color);
+        color: var(--second-background-color);
     }
 
     .contact-list {
@@ -66,14 +66,14 @@ body {
     
     .link-contact:hover,
     .link-contact:focus{
-        color: var(--main-dg-color);
+        color: var(--second-background-color);
     }
     
 
 /* Button-main-page */
     .filter-btn:hover,
     .filter-btn:focus {
-        background-color: var(--main-dg-color);
+        background-color: var(--second-background-color);
         color: var(--main-bg-color);
         cursor: pointer;
     }
@@ -101,13 +101,12 @@ body {
         cursor: pointer;
     }
 
-    .filter-btn-active:hover,
-    .filter-btn-avtive:focus {
-       color: var(--main-bg-color);
-        background-color: var(--main-dg-color);
-        cursor: pointer;
-    }
+   
     
+        .filter-btn-active:is(:hover, :focus) {
+            color: #FFFFFF;
+            background-color: var(--second-background-color, #404BBF);
+        }
 
 /* Img-(1-9)-Portfolio */
 
