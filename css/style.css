@@ -89,13 +89,7 @@ body {
     }
 
     /* Button-Portfolio */
-    .filter-btn-active:hover,
-    .filter-btn-avtive:focus {
-        color: #FFFFFF;
-        background-color: #404BBF;
-        cursor: pointer;
-    }
-
+   
     .filter-btn-active {
         font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -107,9 +101,14 @@ body {
         cursor: pointer;
     }
 
+    .filter-btn-active:hover,
+    .filter-btn-avtive:focus {
+       color: #FFFFFF;
+         background-color: #404BBF;
+         cursor: pointer;
+    }
 
-/* Img-1-Portfolio */
-
+/* Img-(1-9)-Portfolio */
 
     a.link {
         text-decoration: none;
@@ -129,8 +128,6 @@ body {
         letter-spacing: 0.02em;
         color: var(--main-mg-color);
     }
-
-
 
 /* Section-1 */
     .section-mc{
