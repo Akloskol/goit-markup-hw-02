@@ -197,6 +197,6 @@ body {
         }
     
         .logo-text {
-            color: #F4F4FD;
+            color:var(--main-ag-color);
         }
 
