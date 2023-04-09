@@ -103,15 +103,11 @@ body {
 
     .filter-btn-active:hover,
     .filter-btn-avtive:focus {
-       color: #FFFFFF;
+       color: var(--main-bg-color);
+        background-color: var(--main-dg-color);
         cursor: pointer;
     }
-
-    .filter-btn-active:hover,
-    .filter-btn-avtive:focus {
-        background-color: #404BBF;
-        cursor: pointer;
-    }
+    
 
 /* Img-(1-9)-Portfolio */
 
