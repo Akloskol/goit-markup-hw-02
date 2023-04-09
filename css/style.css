@@ -137,8 +137,6 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
-        background-color: var(--main-pg-color); 
-        /* Добавил background  */
     }
 
 /* Section (3-4) heading */
@@ -198,8 +196,4 @@ body {
     
         .logo-text {
             color:var(--main-ag-color);
-        }
-
-        .logo-information{
-            color: #F4F4FD;
         }
