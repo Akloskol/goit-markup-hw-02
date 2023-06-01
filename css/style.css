@@ -10,50 +10,45 @@
 }
 
 .title-text{
-width: 378px;
-    height: 56px;
-
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 28px;
-    /* or 117% */
-
-    text-align: center;
-    letter-spacing: -0.03em;
-    text-transform: uppercase;
-
-    color: #FFFFFF;
+    width: 378px;
+        height: 56px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: center;
+        letter-spacing: -0.03em;
+        margin: 0 auto;
+        text-transform: uppercase;
 }
 
 .main-text{
-width: 467px;
+    width: 467px;
     height: 72px;
-
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 18px;
-    /* or 129% */
-
     text-align: center;
     letter-spacing: -0.02em;
+    margin: 0 auto;
 
-    color: #FFFFFF;
 }
 
 .subscribe-button{
-display: flex;
+    display: flex;
     flex-direction: row;
     align-items: flex-start;
     padding: 14px 40px;
     gap: 14px;
-
-    width: 172px;
-    height: 50px;
-
+    /* min-width: 172px; */
+    /* min-height: 50px; */
     background: #FD9222;
     border-radius: 100px;
+    color: white;
+    margin: 0 auto;
+    cursor: pointer;
+    border: none;
 }
